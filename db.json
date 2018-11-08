@@ -7,8 +7,7 @@
     { "id": 5, "title": "config 5", "body": "some comment" },
     { "id": 6, "title": "config 6", "body": "some comment" }
   ],
-  "customers": {"upload": [
-                            { "id": 1, "body": "some comment", "postId": 1 },
+  "customers/upload": [{ "id": 1, "body": "some comment", "postId": 1 },
                             { "id": 2, "body": "some comment", "postId": 2 }
                            ]},
   "profile": {
