@@ -1,18 +1,6 @@
 {
   "config": [
     { "id": 1, "title": "config 1", "body": "some comment" }
-  ],
-  "customers": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "p/p": [
-    {
-      "id": 1,
-      "name": "my_name",
-      "value": "my_value"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
+
