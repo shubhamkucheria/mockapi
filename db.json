@@ -1,6 +1,4 @@
 {
-  "config": {
-              "config1": [{ "id": 1, "title": "config 1", "body": "some comment" }]
-  }
+  "config": [{ "id": "config1", "title": "config 1", "body": "some comment" }]
 }
 
