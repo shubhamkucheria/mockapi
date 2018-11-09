@@ -7,5 +7,8 @@
   ],
   "customers": [
     { "id": "upload", "body": "some comment", "postId": 1 }
+  ],
+  "yo/po": [
+    { "id": 1, "bodys": "some comment" }
   ]
 }
