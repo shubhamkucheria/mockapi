@@ -9,6 +9,6 @@
     { "id": "upload", "body": "some comment", "postId": 1 }
   ],
   "customer/upload": [
-    { "id": "1", "body": "some comment", "postId": 1 }
+    { "id": "1", "body": "some comment"}
   ]
 }
