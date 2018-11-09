@@ -1,8 +1,10 @@
 {
-  "tenants": [
-    { "id": 1, "title": "json-server", "author": "typicode"} 
+  "config": [{ "id": "yo", "title": "config 1", "body": "some comment" }],
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
   ],
-  "config": [
-    { "id": 1, "body": "some comment", "postId": 1}
-  ]
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
 }
