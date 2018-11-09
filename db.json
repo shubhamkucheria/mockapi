@@ -3,6 +3,6 @@
     { "id": 1, "title": "json-server", "author": "typicode"} 
   ],
   "config": [
-    { "id": 1, "body": "some comment", "tenants_id": 1 }
+    { "id": 1, "body": "some comment", "tenantsid": 1 }
   ]
 }
