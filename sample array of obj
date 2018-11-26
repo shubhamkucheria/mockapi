@@ -1,0 +1,121 @@
+  value = [{"department":[  
+                    "DEPT001"
+                ],
+                "location":[  
+                     "washington"
+                ],
+                "items": "office supplies, real estate",
+                "users":[  
+                    {  
+                        "id":"CULT4545_USR014_poorva.zspdev@zycus.com",
+                        "userGroupCode":"CULT4545_USR014",
+                        "emailId":"poorva.zspdev@zycus.com",
+                        "role":"Legal Advisor1",
+                        "designation":"Senior Attorney",
+                        "reportingManager":"amit1.zspdev@zycus.com",
+                        "approvalLimit":"",
+                        "jobId":"9c97bbce-e441-49e3-92d8-31792adaca30",
+                        "error":"",
+                        "approvalLimitFlag":"",
+                        "date":1542627668569,
+                        "userGroupCodeJobId":"CULT4545_USR014_9c97bbce-e441-49e3-92d8-31792adaca30",
+                        "userCode":"82c74a25-f57a-4722-8756-02e4a2592cba",
+                        "tenantId":"def68304-7e50-463c-95f5-7af9dcb4e600",
+                        "cultCode":"CULT4545"
+                    }, 
+                    {  
+                          "id":"CULT4545_USR014_poorva.zspdev@zycus.com",
+                          "userGroupCode":"CULT4545_USR014",
+                          "emailId":"poorva.zspdev@zycus.com",
+                          "role":"Legal Advisor1",
+                          "designation":"Senior Attorney",
+                          "reportingManager":"amit1.zspdev@zycus.com",
+                          "approvalLimit":"",
+                          "jobId":"9c97bbce-e441-49e3-92d8-31792adaca30",
+                          "error":"",
+                          "approvalLimitFlag":"",
+                          "date":1542627668569,
+                          "userGroupCodeJobId":"CULT4545_USR014_9c97bbce-e441-49e3-92d8-31792adaca30",
+                          "userCode":"82c74a25-f57a-4722-8756-02e4a2592cba",
+                          "tenantId":"def68304-7e50-463c-95f5-7af9dcb4e600",
+                          "cultCode":"CULT4545"
+                      },
+      {  
+                            "id":"CULT4545_USR014_poorva.zspdev@zycus.com",
+                            "userGroupCode":"CULT4545_USR014",
+                            "emailId":"poorva.zspdev@zycus.com",
+                            "role":"Legal Advisor1",
+                            "designation":"Senior Attorney",
+                            "reportingManager":"amit1.zspdev@zycus.com",
+                            "approvalLimit":"",
+                            "jobId":"9c97bbce-e441-49e3-92d8-31792adaca30",
+                            "error":"",
+                            "approvalLimitFlag":"",
+                            "date":1542627668569,
+                            "userGroupCodeJobId":"CULT4545_USR014_9c97bbce-e441-49e3-92d8-31792adaca30",
+                            "userCode":"82c74a25-f57a-4722-8756-02e4a2592cba",
+                            "tenantId":"def68304-7e50-463c-95f5-7af9dcb4e600",
+                            "cultCode":"CULT4545"
+                        },
+        {  
+                              "id":"CULT4545_USR014_poorva.zspdev@zycus.com",
+                              "userGroupCode":"CULT4545_USR014",
+                              "emailId":"poorva.zspdev@zycus.com",
+                              "role":"Legal Advisor1",
+                              "designation":"Senior Attorney",
+                              "reportingManager":"amit1.zspdev@zycus.com",
+                              "approvalLimit":"",
+                              "jobId":"9c97bbce-e441-49e3-92d8-31792adaca30",
+                              "error":"",
+                              "approvalLimitFlag":"",
+                              "date":1542627668569,
+                              "userGroupCodeJobId":"CULT4545_USR014_9c97bbce-e441-49e3-92d8-31792adaca30",
+                              "userCode":"82c74a25-f57a-4722-8756-02e4a2592cba",
+                              "tenantId":"def68304-7e50-463c-95f5-7af9dcb4e600",
+                              "cultCode":"CULT4545"
+                          },
+          {  
+                                "id":"CULT4545_USR014_poorva.zspdev@zycus.com",
+                                "userGroupCode":"CULT4545_USR014",
+                                "emailId":"poorva.zspdev@zycus.com",
+                                "role":"Legal Advisor1",
+                                "designation":"Senior Attorney",
+                                "reportingManager":"amit1.zspdev@zycus.com",
+                                "approvalLimit":"",
+                                "jobId":"9c97bbce-e441-49e3-92d8-31792adaca30",
+                                "error":"",
+                                "approvalLimitFlag":"",
+                                "date":1542627668569,
+                                "userGroupCodeJobId":"CULT4545_USR014_9c97bbce-e441-49e3-92d8-31792adaca30",
+                                "userCode":"82c74a25-f57a-4722-8756-02e4a2592cba",
+                                "tenantId":"def68304-7e50-463c-95f5-7af9dcb4e600",
+                                "cultCode":"CULT4545"
+                            }
+                ]
+    },
+    {"department":[  
+                      "DEPT002"
+                  ],
+                  "location":[  
+                      "st. anthonia, san franpotika"
+                  ],
+                  "users":[  
+                      {  
+                          "id":"CULT4545_USR014_poorva.zspdev@zycus.com",
+                          "userGroupCode":"CULT4545_USR014",
+                          "emailId":"poorva.zspdev@zycus.com",
+                          "role":"Legal Advisor1",
+                          "designation":"Senior Attorney",
+                          "reportingManager":"amit1.zspdev@zycus.com",
+                          "approvalLimit":"",
+                          "jobId":"9c97bbce-e441-49e3-92d8-31792adaca30",
+                          "error":"",
+                          "approvalLimitFlag":"",
+                          "date":1542627668569,
+                          "userGroupCodeJobId":"CULT4545_USR014_9c97bbce-e441-49e3-92d8-31792adaca30",
+                          "userCode":"82c74a25-f57a-4722-8756-02e4a2592cba",
+                          "tenantId":"def68304-7e50-463c-95f5-7af9dcb4e600",
+                          "cultCode":"CULT4545"
+                      }
+                  ]
+      }];  
