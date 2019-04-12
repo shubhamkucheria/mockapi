@@ -1,0 +1,71 @@
+1.	Number of features and complexity - 30%
+2.	web Services Performance - 15%
+3.	on time delivery per release - 15%
+4.	No of bugs Blocker/critical - 15%
+5.	Product Adoption(support provided, issues resolved, ERT resolutions etc)- 15%
+6.	code quality, techinical documentation - 10% 
+
+
+project = CWC AND issuetype = Bug AND status = Closed AND assignee = shubham.kucheria
+
+id ="CWC-1383" - title="For a workflow in Inactive state the footer action available is deactivate"  , 
+id ="CWC-1185" - title="Gramatical mistake in Generic Error message displayed while uploading sheet"  , 
+id ="CWC-1163" - title="[Internet Explorer] Unable to use pagination on IE browser"  , 
+id ="CWC-1130" - title="No gap present between Process Code name and Tag name on Complete Workflow Listing page"  , 
+id ="CWC-1109" - title="Able to change the Process code on copy of workflow."  , 
+id ="CWC-1086" - title="Deselecting a selected option disables the Activity tab"  , 
+id ="CWC-1001" - title="Incorrect file size warning given when trying to upload Bulk data in WCM"  , 
+id ="CWC-996" - title="View Workflow buttons lets the user edit the Workflow"  , 
+id ="CWC-994" - title="Created On is not displayed as per user profile's date format"  , 
+id ="CWC-984" - title="Navigation through breadcrumbs does not work as expected"  , 
+id ="CWC-983" - title="Clear filters doesn't work if you collapse the filters."  , 
+id ="CWC-973" - title="Text overflow into other column"  , 
+id ="CWC-972" - title="No validation error given for Space character being used as the Workflow name"  , 
+id ="CWC-969" - title="UI distortion on adding maximum characters in field name and column name in 'define meta data' listing."  , 
+id ="CWC-967" - title="User ID is displayed instead of User name in CULT"  , 
+id ="CWC-966" - title="Validation modal displayed multiple times in a particular scenario."  , 
+id ="CWC-961" - title="The search listing in define meta data listing doesn't disappear on focusing out of the field."  , 
+id ="CWC-958" - title="No confirmation modal on deleting entries from define meta data listing."  , 
+id ="CWC-941" - title="Info icon doesn't display any info in cwf import file modal."  , 
+id ="CWC-939" - title="Worflow condition map's upload file section has cult file uploaded when user uploads a cult file."  , 
+
+
+project = CWC AND issuetype = Bug AND status = resolved AND assignee = shubham.kucheria 
+
+
+id="CWC-1325" - title="Unable to save and continue after copying a workflow." 
+id="CWC-1216" - title="getConfig details and getUser details response displays all server and user details in cwf." 
+id="CWC-1181" - title="Unable to edit meta data after cancel edit." 
+id="CWC-1156" - title="Unable to search cult values in IE 11 browser. Unable to switch pages in IE11." 
+id="CWC-1104" - title="Unable to use filters in IE 11 browser in every cwf listing." 
+id="CWC-1096" - title="Empty response error on editing an existing workflow or creating a new one." 
+id="CWC-1094" - title="Count of listing entities after applying filter is not displayed in filter section as provided in zeplin." 
+id="CWC-1071" - title="List of WCMs and Process not listed in IE 11 browser while defining complete workflow." 
+id="CWC-1069" - title="Copyright year not updated in commonworkflow's footer." 
+id="CWC-1068" - title="Unable to add json for meta data definition in IE11 browser." 
+id="CWC-1048" - title="Error in Field Name deletes the whole entry and does not allow the user to modify the error" 
+id="CWC-1038" - title="Wrong behavior on adding new entry with errors in meta data listing." 
+id="CWC-1037" - title="Entry deleted when error id displayed against meta data column." 
+id="CWC-1032" - title="Hand icon not provided throughout application on back arrows." 
+id="CWC-1031" - title="Javascript error in console on adding multiple master entities in CULT sheet." 
+id="CWC-954"> - title="Scripts are executed in tags column of complete workflow listing." 
+id="CWC-922"> - title="WorkflowUI_Bug - Download template&nbsp; for CULT, MCW, WCM are not updated. " 
+id="CWC-921"> - title="Clear button does not work when multiple filters are applied and Clear button for Processes filter does not work." 
+id="CWC-920"> - title="Filters for Product and Tags not present on Complete  Workflow Listing." 
+id="CWC-919"> - title="Status Filters does not work, if Process filters are applied first>> Multiple filters does not work." 
+id="CWC-918"> - title="&quot;Clear All&quot; button is not present on top of Complete Workflow list when multiple filters are applied." 
+id="CWC-917"> - title="Filters applied at the top with the cross button does not get cleared on clicking on the cross button." 
+id="CWC-916"> - title="Clear link in Filters does not clear the applied filters  on Complete Workflow Page." 
+id="CWC-913"> - title="Currency is required validation message is shown on Copy worklfow, " 
+id="CWC-912"> - title="Workflow Condition ID ,condition is displayed on Copy worklfow" 
+id="CWC-910"> - title="Import Progress bar is not shown when import is in progress." 
+id="CWC-770"> - title="Breadcrumbs not working in Workflow Configuration and Define workflow page." 
+id="CWC-741"> - title="Approval Limit column should be present  in Approval Rules Table if approval limit is YES." 
+id="CWC-668"> - title="Text search in search box of any listing is consistent through multiple tabs." 
+id="CWC-659"> - title="[CULT] User is not able to export All CULT's at once." 
+id="CWC-406"> - title="[CULT] User is not able to search script characters on CULT listing page." 
+id="CWC-375"> - title="User is not able to search Multi Condition Workflow Name having script characters." 
+id="CWC-366"> - title="The search keyword does not find the matched rows if space is entered after the search keyword" 
+
+
+
